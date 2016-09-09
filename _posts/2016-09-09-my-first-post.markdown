@@ -5,7 +5,7 @@ tags:
 - bacon
 ---
 
-Bacon ipsum dolor amet meatball ground round sausage, frankfurter beef swine short loin shoulder ham short ribs bresaola venison ham hock. T-bone ball tip tail frankfurter, pastrami fatback pork belly tongue chuck shank short loin. Capicola venison alcatra jerky porchetta chuck swine sausage strip steak bresaola cow t-bone. Meatloaf biltong short ribs tongue, shank bacon capicola boudin drumstick corned beef tail cupim chuck. Capicola boudin jowl turkey hamburger leberkas meatloaf jerky chuck meatball sausage fatback alcatra pastrami tri-tip. Tenderloin salami pork chicken prosciutto flank. Beef ribeye sausage, jowl pancetta pork tail pig turkey landjaeger cupim.
+Bacon ipsum dolor amet meatball ground round sausage, frankfurter beef swine short loin shoulder ham short ribs bresaola venison ham hock. T-bone ball tip tail **frankfurter**, pastrami fatback pork belly tongue chuck shank short loin. Capicola venison alcatra jerky porchetta chuck swine sausage strip steak bresaola cow t-bone. Meatloaf biltong short ribs tongue, shank bacon capicola boudin drumstick corned beef tail cupim chuck. Capicola boudin jowl turkey hamburger leberkas meatloaf jerky chuck meatball sausage fatback alcatra pastrami tri-tip. Tenderloin salami pork chicken prosciutto flank. Beef ribeye sausage, jowl pancetta pork tail pig turkey landjaeger cupim.
 
 Capicola filet mignon landjaeger shank jowl, doner flank cupim. Ball tip rump flank landjaeger beef ribs, alcatra kielbasa venison ham hock spare ribs shankle strip steak swine filet mignon ground round. Jerky filet mignon ham hock frankfurter cupim kielbasa strip steak brisket short loin salami. Tri-tip drumstick andouille, porchetta ham shankle biltong. Fatback alcatra tongue kevin salami.
 
